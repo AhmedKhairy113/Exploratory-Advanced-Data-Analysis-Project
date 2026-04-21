@@ -1,2 +1,71 @@
-# Exploratory & Advanced Data Analysis Project
-# Exploratory & Advanced Data Analysis Project  ## 📌 Project Overview  This project focuses on applying a structured data analysis workflow, starting from Exploratory Data Analysis (EDA) to Advanced Analytics techniques.  The main objective is to deeply understand the dataset, uncover patterns, and extract meaningful insights using analytical methods.  ---  ## 🔍 Project Structure  ### 1. Exploratory Data Analysis (EDA)  * Database exploration (tables, relationships, data types) * Dimensions exploration * Date exploration * Measures exploration * Magnitude analysis * Ranking (Top N / Bottom N)  ### 2. Advanced Data Analysis  * Change over time (trend analysis) * Cumulative analysis (running totals) * Performance analysis * Part-to-whole (proportional analysis) * Data segmentation * Analytical reporting (insight-driven outputs)  ---  ## 🛠️ Tools & Technologies  * SQL Server * SQL (T-SQL) * Data Analysis Techniques  ---  ## 🎯 Key Objectives  * Understand data structure and relationships * Perform in-depth exploratory analysis * Apply advanced analytical techniques * Generate actionable insights from data  ---  ## 📊 Key Insights  > This section can be updated with findings after completing the analysis.  ---  ## 🚀 Project Value  This project demonstrates a complete analytical thinking process, moving from raw data exploration to advanced insight generation using a structured roadmap.  ---  ## 👤 Author  Ahmed Khairy
+# 📊 Exploratory & Advanced Data Analysis Project
+
+## 📌 Project Overview
+
+This project applies a structured data analysis workflow, starting from **Exploratory Data Analysis (EDA)** to **Advanced Analytics**.
+
+The main objective is to:
+
+* Understand the dataset deeply
+* Discover patterns
+* Extract meaningful insights
+
+---
+
+## 🔍 Project Structure
+
+### 1️⃣ Exploratory Data Analysis (EDA)
+
+* Database exploration (tables, relationships, data types)
+* Dimensions exploration
+* Date range exploration
+* Measures exploration
+* Magnitude analysis
+* Ranking analysis (Top N / Bottom N)
+
+---
+
+### 2️⃣ Advanced Data Analysis
+
+* Time-based analysis (trend analysis)
+* Cumulative analysis (running totals)
+* Performance analysis
+* Part-to-whole analysis
+
+---
+
+## 🛠️ Tools Used
+
+* SQL Server
+* T-SQL
+* Git & GitHub
+
+---
+
+## 📁 Project Files
+
+* `dimensions_exploration.sql`
+* `date_range_exploration.sql`
+* `measures_exploration.sql`
+* `magnitude_analysis.sql`
+* `ranking_analysis.sql`
+
+---
+
+## 🚀 How to Use
+
+1. Open SQL Server Management Studio
+2. Load the database
+3. Run the SQL scripts step by step
+
+---
+
+## 📈 Key Insights
+
+> (You can add your findings here later)
+
+---
+
+## 👤 Author
+
+Ahmed Khairy
